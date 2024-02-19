@@ -1,19 +1,18 @@
-// Assuming this JSON data is fetched or present in your script
 const jsonData = `{
     "packages": [
         {
-          "name": "Standart",
-          "subscriptionPrice": "0",
-          "useAllCars": "-",
-          "freeCarReservationPeriod": "15 min",
-          "extraFee": "According to the tariff of the specific area",
-          "exclusiveElectricCars": "-",
-          "minuteRentRate": "Standard",
-          "dailyRentRateWeekends": "Standard",
-          "egoPoints": "3 eGo Points",
-          "insuranceFranchiseFee": "Yes",
-          "color": "#F5F5F5",
-          "textColor": "#000000"
+            "name": "Standart",
+            "subscriptionPrice": "0",
+            "useAllCars": "-",
+            "freeCarReservationPeriod": "15 min",
+            "extraFee": "According to the tariff of the specific area",
+            "exclusiveElectricCars": "-",
+            "minuteRentRate": "Standard",
+            "dailyRentRateWeekends": "Standard",
+            "egoPoints": "3 eGo Points",
+            "insuranceFranchiseFee": "Yes",
+            "color": "#F5F5F5",
+            "textColor": "#000000"
         },
         {
             "name": "ELRIDEPRO",
@@ -31,35 +30,35 @@ const jsonData = `{
             "textColor": "#FFFFFF"
         },
         {
-          "name": "Recharged",
-          "subscriptionPrice": "9",
-          "useAllCars": "-",
-          "freeCarReservationPeriod": "20 min",
-          "extraFee": "No extra fee in purple parking zones",
-          "exclusiveElectricCars": "BMW i3",
-          "minuteRentRate": "Lower",
-          "dailyRentRateWeekends": "Lower",
-          "egoPoints": "6 eGo Points",
-          "insuranceFranchiseFee": "Yes",
-          "color": "#58C3A9",
-          "textColor": "#FFFFFF"
+            "name": "Recharged",
+            "subscriptionPrice": "9",
+            "useAllCars": "-",
+            "freeCarReservationPeriod": "20 min",
+            "extraFee": "No extra fee in purple parking zones",
+            "exclusiveElectricCars": "BMW i3",
+            "minuteRentRate": "Lower",
+            "dailyRentRateWeekends": "Lower",
+            "egoPoints": "6 eGo Points",
+            "insuranceFranchiseFee": "Yes",
+            "color": "#58C3A9",
+            "textColor": "#FFFFFF"
         },
         {
-          "name": "Supercharged",
-          "subscriptionPrice": "19",
-          "useAllCars": "-",
-          "freeCarReservationPeriod": "25 min",
-          "extraFee": "No extra fee in purple parking zones",
-          "exclusiveElectricCars": "BMW i3",
-          "minuteRentRate": "Lower",
-          "dailyRentRateWeekends": "Lower",
-          "egoPoints": "6 eGo Points",
-          "insuranceFranchiseFee": "No",
-          "color": "#52B6CB",
-          "textColor": "#FFFFFF"
+            "name": "Supercharged",
+            "subscriptionPrice": "19",
+            "useAllCars": "-",
+            "freeCarReservationPeriod": "25 min",
+            "extraFee": "No extra fee in purple parking zones",
+            "exclusiveElectricCars": "BMW i3",
+            "minuteRentRate": "Lower",
+            "dailyRentRateWeekends": "Lower",
+            "egoPoints": "6 eGo Points",
+            "insuranceFranchiseFee": "No",
+            "color": "#52B6CB",
+            "textColor": "#FFFFFF"
         }
-      ]
-  }`;
+    ]
+}`;
 
 const packageData = JSON.parse(jsonData);
 
