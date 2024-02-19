@@ -1,0 +1,53 @@
+{
+    "packages": [
+      {
+        "name": "Standart",
+        "subscriptionPrice": "Row 1, Column 2",
+        "useAllCars": "Row 1, Column 2",
+        "freeCarReservationPeriod": "Row 1, Column 2",
+        "extraFee": "Row 1, Column 2",
+        "exclusiveElectricCars": "Row 1, Column 2",
+        "minuteRentRate": "Row 1, Column 2",
+        "dailyRentRateWeekends": "Row 1, Column 2",
+        "egoPoints": "Row 1, Column 2",
+        "insuranceFranchiseFee": "Row 1, Column 2"
+      },
+      {
+        "name": "Elride Pro",
+        "subscriptionPrice": "Row 1, Column 3",
+        "useAllCars": "Row 1, Column 3",
+        "freeCarReservationPeriod": "Row 1, Column 3",
+        "extraFee": "Row 1, Column 3",
+        "exclusiveElectricCars": "Row 1, Column 3",
+        "minuteRentRate": "Row 1, Column 3",
+        "dailyRentRateWeekends": "Row 1, Column 3",
+        "egoPoints": "Row 1, Column 3",
+        "insuranceFranchiseFee": "Row 1, Column 3"
+      },
+      {
+        "name": "Recharged",
+        "subscriptionPrice": "Row 1, Column 4",
+        "useAllCars": "Row 1, Column 4",
+        "freeCarReservationPeriod": "Row 1, Column 4",
+        "extraFee": "Row 1, Column 4",
+        "exclusiveElectricCars": "Row 1, Column 4",
+        "minuteRentRate": "Row 1, Column 4",
+        "dailyRentRateWeekends": "Row 1, Column 4",
+        "egoPoints": "Row 1, Column 4",
+        "insuranceFranchiseFee": "Row 1, Column 4"
+      },
+      {
+        "name": "Supercharged",
+        "subscriptionPrice": "Row 1, Column 5",
+        "useAllCars": "Row 1, Column 5",
+        "freeCarReservationPeriod": "Row 1, Column 5",
+        "extraFee": "Row 1, Column 5",
+        "exclusiveElectricCars": "Row 1, Column 5",
+        "minuteRentRate": "Row 1, Column 5",
+        "dailyRentRateWeekends": "Row 1, Column 5",
+        "egoPoints": "Row 1, Column 5",
+        "insuranceFranchiseFee": "Row 1, Column 5"
+      }
+    ]
+  }
+  
